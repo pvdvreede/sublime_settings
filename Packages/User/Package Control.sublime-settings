@@ -1,6 +1,7 @@
 {
-  "installed_packages":
-  [
-    "ruby-slim.tmbundle"
-  ]
+	"installed_packages":
+	[
+		"GoSublime",
+		"ruby-slim.tmbundle"
+	]
 }
