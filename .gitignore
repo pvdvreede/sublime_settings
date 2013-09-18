@@ -8,3 +8,4 @@ Package Control.ca-certs/
 
 # Ignore Go package settings
 GoSublime/
+GoSublime-aux.sublime-settings
