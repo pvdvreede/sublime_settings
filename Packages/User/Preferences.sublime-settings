@@ -11,5 +11,6 @@
   "trim_trailing_white_space_on_save": true,
   "highlight_modified_tabs": true,
   "open_files_in_new_window": false,
-  "ensure_newline_at_eof_on_save": true
+  "ensure_newline_at_eof_on_save": true,
+  "save_on_focus_lost": true
 }
