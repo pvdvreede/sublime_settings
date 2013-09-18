@@ -2,5 +2,15 @@ Local/
 Installed\ Packages/
 Index/
 Cache/
-*cache*
-*.last-run
+
+# ignore the commonly changing Package control files
+Packages/User/Package\ Control.last-run
+Packages/User/Package\ Control.ca-list
+Packages/User/Package\ Control.ca-bundle
+Packages/User/Package\ Control.system-ca-bundle
+Packages/User/Package\ Control.cache/
+Packages/User/Package\ Control.ca-certs/
+
+# ignore everything but the User folder in the Packages folder
+Packages/
+!Packages/User/
