@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"GoSublime",
-		"ruby-slim.tmbundle"
+		"ruby-slim.tmbundle",
+		"SCSS"
 	]
 }
