@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"GoSublime",
 		"ruby-slim.tmbundle",
 		"SCSS"
