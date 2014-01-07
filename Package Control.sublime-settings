@@ -2,11 +2,12 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
-		"ruby-slim.tmbundle",
-		"SCSS",
 		"Elixir",
 		"GitGutter",
 		"GoSublime",
+		"Ruby Slim",
+		"SCSS",
 		"SideBarEnhancements",
+		"Theme - Spacegray"
 	]
 }
